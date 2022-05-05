@@ -3,3 +3,7 @@ function buttonClick() {
 }
 
 module.exports = buttonClick;
+
+/**
+ * @jest-environment jsdom
+ */
